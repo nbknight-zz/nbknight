@@ -1,1 +1,1 @@
-This is the first edition of my working file, i.e. websiite.
+This is the first edition of my working file, i.e. website.
